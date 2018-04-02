@@ -27,7 +27,7 @@ namespace BlueAlliance
     {
         //You need an api key from the Blue Alliance blog
         //see https://www.thebluealliance.com/apidocs for details
-        string apiKey = "REPACE_WITH_YOUR_OWN_KEY";
+        string apiKey = "REPLACE_WITH_YOUR_OWN_KEY";
 
         public MainWindow()
         {
